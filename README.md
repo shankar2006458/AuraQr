@@ -4,7 +4,7 @@ AuraQR is a modern, responsive QR Code Generator and Scanner web app built with 
 
 ## Live Demo
 
-🌐 Live Site: [https://yourusername.github.io/auraqr/](https://yourusername.github.io/AuraQr/)
+🌐 Live Site: [https://yourusername.github.io/auraqr/](https://shankar2006458.github.io/AuraQr/)
 
 ## Features
 
